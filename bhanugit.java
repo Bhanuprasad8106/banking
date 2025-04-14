@@ -1,4 +1,4 @@
 public class git
   public void funA()
-  arif is a very good boy
+  mahi is a very good boy
   
